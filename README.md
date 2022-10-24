@@ -2,15 +2,15 @@
 
 ## Testing
 
-[ ] Skeletons
-    [ ] Imba
-        [x] API
-        [ ] Full Stack
-            [ ] Imba SPA
-            [ ] Imba Blank
-    [ ] TypeScript
-        [ ] API
-        [ ] Full Stack
-            [ ] Imba SPA
-            [ ] Imba Blank
+- [ ] Skeletons
+    - [ ] Imba
+        - [x] API
+        - [ ] Full Stack
+            - [ ] Imba SPA
+            - [ ] Imba Blank
+    - [ ] TypeScript
+        - [ ] API
+        - [ ] Full Stack
+            - [ ] Imba SPA
+            - [ ] Imba Blank
 
