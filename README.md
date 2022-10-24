@@ -4,9 +4,7 @@ Formidable is still a work-in-progress. Below, we've outlined some of the things
 
 ## Features
 
-- [ ] Queue Worker
 - [ ] Task Scheduler
-- [ ] ORM
 - [ ] Formidablerc Config
 
 ## Testing
