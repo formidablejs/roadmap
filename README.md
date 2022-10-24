@@ -5,8 +5,9 @@ Formidable is still a work-in-progress. Below, we've outlined some of the things
 ## Features
 
 - [ ] Queue Worker
-- [ ] Scheduler
+- [ ] Task Scheduler
 - [ ] ORM
+- [ ] Formidablerc Config
 
 ## Testing
 
@@ -23,13 +24,39 @@ Formidable is still a work-in-progress. Below, we've outlined some of the things
             - [ ] Imba Blank
 - [ ] Framework Core
     - [ ] Auth
+        - [ ] Auth Service
+        - [ ] Drivers
+        - [x] Tokens (JWT)
     - [x] Config
     - [ ] Database
+        - [ ] Bind
+        - [ ] Config
+        - [ ] Database
+        - [ ] Migration
+        - [ ] Repository
+        - [ ] Seeder
     - [x] Environment
     - [ ] Foundation
+        - [ ] Console / CLI
+        - [ ] Context
+        - [ ] Inspiring
+        - [ ] Maintenance Mode
     - [ ] Hashing
     - [ ] Http
-        - [x] Route / Router
+        - [ ] Cookie
+        - [ ] Cors
+        - [ ] Csrf
+        - [ ] Kernel
+        - [ ] Middleware
+        - [ ] Redirect
+        - [ ] Middleware
+        - [ ] Request
+        - [ ] Response
+        - [x] Router
+        - [ ] Session
+        - [ ] Static
+        - [ ] URL
+        - [ ] View
     - [ ] Mix
     - [x] Redis
     - [ ] Support
