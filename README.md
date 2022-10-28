@@ -86,3 +86,10 @@ Formidable is still a work-in-progress. Below, we've outlined some of the things
             - [x] without
         - [ ] Language
     - [ ] Validator
+
+## Other
+
+[ ] TypeScript Re-write
+[ ] Deployment Guide
+    [x] Heroku
+    [ ] Ubuntu Server
