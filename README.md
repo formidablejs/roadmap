@@ -41,13 +41,13 @@ Formidable is still a work-in-progress. Below, we've outlined some of the things
         - [ ] Maintenance Mode
     - [ ] Hashing
     - [ ] Http
-        - [ ] Redirect
         - [ ] Middleware
         - [ ] Request
         - [ ] Response
-        - [x] Router
         - [ ] URL
         - [ ] View
+        - [x] Redirect
+        - [x] Router
     - [ ] Mix
     - [x] Redis
     - [ ] Support
