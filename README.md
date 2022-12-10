@@ -5,6 +5,8 @@ Formidable is still a work-in-progress. Below, we've outlined some of the things
 ## Features
 
 - [ ] Task Scheduler
+- [ ] Queue Worker
+- [ ] Logger
 - [ ] Formidablerc Config
 
 ## Testing
