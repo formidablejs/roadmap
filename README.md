@@ -95,3 +95,4 @@ Formidable is still a work-in-progress. Below, we've outlined some of the things
 - [ ] Deployment Guide
     - [x] Heroku
     - [ ] Ubuntu Server
+    - [ ] Docker
