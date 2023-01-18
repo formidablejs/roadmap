@@ -1,5 +1,13 @@
 # Formidable v1.0.0 Roadmap
 
+## Announcement
+
+> **Note**
+
+> The Formidable Framework will now go into a feature-code-freeze state. No new features will be shipped. We will now focus on bug fixes, tests and doc improvements.
+
+----------
+
 Formidable is still a work-in-progress. Below, we've outlined some of the things that we still need to complete before v1.0.0 is ready to be released.
 
 ## Features
