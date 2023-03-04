@@ -13,7 +13,7 @@ Formidable is still a work-in-progress. Below, we've outlined some of the things
 ## Features
 
 - [x] Task Scheduler
-- [ ] Queue Worker
+- [x] Queue Worker
 - [x] Logger
 - [ ] Formidablerc Config
 
