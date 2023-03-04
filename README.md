@@ -102,5 +102,5 @@ Formidable is still a work-in-progress. Below, we've outlined some of the things
 - [ ] TypeScript Re-write
 - [ ] Deployment Guide
     - [x] Heroku
-    - [ ] Ubuntu Server
+    - [x] Nginx (Linux)
     - [ ] Docker
