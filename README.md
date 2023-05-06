@@ -24,12 +24,12 @@ Formidable is still a work-in-progress. Below, we've outlined some of the things
         - [x] API
         - [ ] Full Stack
             - [ ] Imba SPA
-            - [ ] Imba Blank
+            - [ ] Imba MPA
     - [ ] TypeScript
         - [ ] API
         - [ ] Full Stack
             - [ ] Imba SPA
-            - [ ] Imba Blank
+            - [ ] Imba MPA
 - [ ] Framework Core
     - [ ] Auth
         - [ ] Auth Service
@@ -103,4 +103,4 @@ Formidable is still a work-in-progress. Below, we've outlined some of the things
 - [ ] Deployment Guide
     - [x] Heroku
     - [x] Nginx (Linux)
-    - [ ] Docker
+    - [x] Docker
