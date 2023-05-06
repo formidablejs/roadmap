@@ -100,7 +100,7 @@ Formidable is still a work-in-progress. Below, we've outlined some of the things
 ## Other
 
 - [ ] TypeScript Re-write
-- [ ] Deployment Guide
+- [x] Deployment Guide
     - [x] Heroku
     - [x] Nginx (Linux)
     - [x] Docker
